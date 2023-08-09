@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SimpleApi_DotNetCoreWebApi.props" />
+</Project>

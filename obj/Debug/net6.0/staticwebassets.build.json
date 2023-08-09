@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BIXQfVdItDr0xkDjk9wPxsgQvRGKP+WQdQjuA5cld0I=",
+  "Source": "SimpleApi_DotNetCoreWebApi",
+  "BasePath": "_content/SimpleApi_DotNetCoreWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
